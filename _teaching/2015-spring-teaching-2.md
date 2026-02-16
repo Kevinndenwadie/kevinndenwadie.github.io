@@ -4,7 +4,7 @@ collection: teaching
 type: "Université de Sherbrooke"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Winter 2024 Fall 2025"
-date: 
+date: 2015
 location: "City, Country"
 ---
 
