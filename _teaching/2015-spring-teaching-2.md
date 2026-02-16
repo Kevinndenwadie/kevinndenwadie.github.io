@@ -9,11 +9,6 @@ location: "City, Country"
 ---
 
 
-Heading 1
-======
+<br>
 
-Heading 2
-======
-
-Heading 3
-======
+<br>
