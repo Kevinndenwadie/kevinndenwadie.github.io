@@ -1,10 +1,10 @@
 ---
 title: "ECN 204 - Introduction à la Microéconomie"
 collection: teaching
-type: ""
-permalink: 
-venue: "Université de Sherbrooke"
-date: Winter 2024, Fall 2025
+type: "Université de Sherbrooke"
+permalink: /teaching/2015-spring-teaching-1
+venue: "Winter 2024, Fall 2025"
+date: 
 location: "City, Country"
 ---
 
