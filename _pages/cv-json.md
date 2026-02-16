@@ -13,5 +13,5 @@ redirect_from:
 
 You can download a PDF copy of my resume below.
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/Academic_ENG_Feb2025.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
