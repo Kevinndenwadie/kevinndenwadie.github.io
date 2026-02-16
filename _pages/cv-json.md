@@ -11,7 +11,7 @@ redirect_from:
 
 {% include cv-template.html %}
 
+You can download a PDF copy of my resume below.
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>
