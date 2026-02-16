@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 author_profile: true
 redirect_from:
   - /resume
