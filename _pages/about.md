@@ -16,3 +16,18 @@ My primary research fields are Macroeconomics, Monetary Economics, and Labour Ec
 I am on the 2025-2026 academic job market.
 
 ------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
