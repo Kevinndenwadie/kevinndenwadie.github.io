@@ -9,8 +9,7 @@
 
 main:
   - title: "Research"
-    url: /publications/
-
+    url: /archive-layout-with-content/
   #- title: "Talks"
    # url: /talks/    
 
