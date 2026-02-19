@@ -8,8 +8,16 @@ permalink: /teaching/
 Université de Sherbrooke, Undergraduate [Winter 2024, Fall 2025]
 
 
+
+<br> 
+
 <br>
-{% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
-{% endfor %}
+
+
+
+<br>
+
+<br> 
+
+<br>
+___
