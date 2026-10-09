@@ -13,7 +13,7 @@ I am a Ph.D. candidate at [Université de Sherbrooke](https://www.usherbrooke.ca
 
 My primary research fields are Macroeconomics, Monetary Economics, and Labour Economics, with particular interests in monetary policy, welfare, labor markets, and informal economy. 
 
-I am on the 2025-2026 academic job market.
+I am on the 2026-2027 academic job market.
 
 <br>
 
