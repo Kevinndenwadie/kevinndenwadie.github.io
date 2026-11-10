@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-Please find a copy of my resume [here](https://www.dropbox.com/scl/fi/9xvxrt4q0l0gm0ulm5vn9/Academic_ENG_Nov2026.pdf?rlkey=4l636v82wj2xrnzl37tz0fkoq&st=i3962pvu&dl=0).
+Please find a copy of my resume [here](https://www.dropbox.com/scl/fi/ot31szhakhtcpa9e7v5q0/Academic_ENG_Nov2026.pdf?rlkey=ijpsl5hrej7pss1ap4xt2v462&st=ypkle3r8&dl=0).
 
 <br> 
 
