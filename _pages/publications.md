@@ -13,12 +13,12 @@ sacrifice ratio compared to a formal-only economy.
 <!--[Latest version (Feb. 2026)](#)-->
 >
 
-<ins>Exogenous Shocks, Households Heterogeneity and Informality**</ins>
+<ins>Exogenous Shocks, Households Heterogeneity and Informality</ins>
 >In this paper, I investigate the importance of households heterogeneity in understanding the distributional impacts of macroeconomic shocks on the size of the informal economy and on households’ welfare costs of external fluctuations. Using a two-sector search and matching framework enriched with a Real Business Cycle approach, I compare outcomes from a representative household model to one that accounts for households heterogeneity, both calibrated to Mexico. The findings reveal that the representative household framework may lead to misguided policy prescriptions for improving welfare and reducing informality. It overestimates the informal economy’s reaction to external shocks and fails to capture the vulnerability of lower-income households, as it behaves more like a wealthier household in the two-agent framework. The paper advocates for moving beyond representative household models and adopting heterogeneous models based on microdata that better reflect the complexities of labor markets in emerging economies, thus supporting the design of more inclusive welfare and labor market policies especially in high informality context.
 >
 
 ## Work in Progress
-<ins>Rethinking the Long Run Effects of Monetary Policy: The Role of Informality</ins>
+<ins>Labor Margins, Optimal Inflation and Monetary Policy Non-neutrality</ins>
 
 
 ---
