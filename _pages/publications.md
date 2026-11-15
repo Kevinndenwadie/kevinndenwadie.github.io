@@ -18,7 +18,7 @@ sacrifice ratio compared to a formal-only economy.
 >
 
 ## Work in Progress
-<ins>Labor Margins, Optimal Inflation and Monetary Policy Non-neutrality</ins>
+<ins>Labor Margins, Hysteresis and, Monetary Policy Neutrality</ins>
 
 
 ---
